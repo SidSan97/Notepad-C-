@@ -1,0 +1,9 @@
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\bin\Debug\Bloco de Notas C Sharppe.exe.config
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\bin\Debug\Bloco de Notas C Sharppe.exe
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\bin\Debug\Bloco de Notas C Sharppe.pdb
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\obj\Debug\Bloco de Notas C Sharppe.csprojResolveAssemblyReference.cache
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\obj\Debug\Bloco_de_Notas_C_Sharppe.JanelaPrincipal.resources
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\obj\Debug\Bloco_de_Notas_C_Sharppe.Properties.Resources.resources
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\obj\Debug\Bloco de Notas C Sharppe.csproj.GenerateResource.Cache
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\obj\Debug\Bloco de Notas C Sharppe.exe
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Bloco de Notas C Sharppe\Bloco de Notas C Sharppe\obj\Debug\Bloco de Notas C Sharppe.pdb
