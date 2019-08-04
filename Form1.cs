@@ -67,10 +67,10 @@ namespace Bloco_de_Notas_C_Sharppe
                     Application.Exit();                  
                 }
             }
-           /* else
+            else
             {
                 Application.Exit();
-            }*/
+            }
         }
 
         private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
